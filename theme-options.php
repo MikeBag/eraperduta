@@ -1,5 +1,7 @@
 <?php
-
+// MikeBag theme options mecchanism using classes
+// Heavy changes to come
+// v0.1
 $mike = new eTheme();
 
 add_action( 'admin_menu', $mike->add_the_page() );
