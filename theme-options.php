@@ -390,5 +390,3 @@ function theme_options_validate( $input ) {
 
 	return $input;
 }
-
-// adapted from http://planetozh.com/blog/2009/05/handling-plugins-options-in-wordpress-28-with-register_setting/
